@@ -14,7 +14,8 @@ Theory:
           4. Reorders the points of the largest contour and warps the perspective to obtain a bird's-eye view of the Sudoku grid.
           5. Final images will go through futher processing and predictions
 
-![PreProcessedImages1](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/d088516a-983b-429e-8d2e-0a2b39f5e5b9)     
+![preProcessedImage3](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/51128312-061d-4ba8-bc3b-2edef6998071)
+   
 
     2. Training and Saving the model 
 
@@ -39,8 +40,9 @@ Theory:
             6. Processes the predicted digits and displays them visually.
             7. Prints and stores the predicted digits and their corresponding prediction accuracies.
 
-![ExtractedDigits](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/299adb5e-b91f-44b2-bc81-25dab2b2ed34)
-![PredictedDigits1](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/649a885a-f374-41cd-af4b-730e56e1db9c)
+![extractedDigits3](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/8f15b067-65c2-4dc6-a5ae-8d15fe8146ef)
+![predictedDigits3](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/e2b7bcc9-9db2-4f7f-9f79-1ffe39021c3e)
+
 
 
 
