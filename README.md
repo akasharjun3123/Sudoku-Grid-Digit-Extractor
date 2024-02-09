@@ -15,7 +15,6 @@ Theory:
           5. Final images will go through futher processing and predictions
 
 ![PreProcessedImages1](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/d088516a-983b-429e-8d2e-0a2b39f5e5b9)     
-![PreProceesedImage3](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/e499f1fe-3710-43a9-97f5-8ca5e397d729)
 
     2. Training and Saving the model 
 
