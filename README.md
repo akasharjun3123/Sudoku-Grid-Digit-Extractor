@@ -20,8 +20,14 @@ Theory:
           10. Processes the predicted digits and displays them visually.
           11. Prints and stores the predicted digits and their corresponding prediction accuracies.
 
-          ![PreProcessedImages1](https://raw.githubusercontent.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/main/assets/Resources/PreProcessedImages1.png)
-          ![PreprocessedImage2](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/bed470c4-d068-4f81-baaa-ce64e076824a)
+![image](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/45c05d23-311c-4403-a78c-710347b3f152)
+![image](https://github.com/akasharjun3123/Sudoku-Grid-Digit-Extractor/assets/139098586/674d7e4f-57e5-46db-8ae8-efd2565b7941)
+
+
+
+
+
+
 
 
 
